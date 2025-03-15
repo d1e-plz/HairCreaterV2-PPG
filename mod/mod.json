@@ -1,0 +1,17 @@
+{
+  "Name": "Hair Creater V2",
+  "Author": "d1e_plz",
+  "Description": "A tool for easier creation of accessories",
+  "ModVersion": "1.0",
+  "GameVersion": "Unity 2020.3.1f.1",
+  "ThumbnailPath": "V2.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [],
+  "Scripts": [
+    "script/main.cs",
+    "script/hairCreatorV2.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": null
+}
